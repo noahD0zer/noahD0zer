@@ -3,6 +3,7 @@
 Hi I'm Noah!
 I’m a current General Assembly student projected to graduate in October with a Computer Science degree in progress as well! I love a good challenge and finding creative approaches to problem solving and using the skills I picked up from my Naval Medicine background to find those creative answers. I love a collaborative team environment where I can learn from my peers and add to my existing leadership skills by working under an inspiring leader. Reach me at my socials below :) 
 
+[![gmail](https://img.shields.io/badge/gmail-gray?style=flat&logo=gmail&logoColor=white&link=noahmendoza97@gmail.com)](noahmendoza97@gmail.com)
 
 [![instagram](https://img.shields.io/badge/instagram-gray?style=flat&logo=instagram&logoColor=red&link=https://instagram.com/afternoondozer?igshid=MmIzYWVlNDQ5Yg==)](https://instagram.com/afternoondozer?igshid=MmIzYWVlNDQ5Yg==)
 
