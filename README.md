@@ -1,4 +1,4 @@
-![Header](./[github-header-image.png])
+![Header](./github-header-image.png)
 
 <!--
 **noahD0zer/noahD0zer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
