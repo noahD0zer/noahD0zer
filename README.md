@@ -7,7 +7,7 @@ I’m a current General Assembly student projected to graduate in October with a
 
 [![instagram](https://img.shields.io/badge/instagram-gray?style=flat&logo=instagram&logoColor=red&link=https://instagram.com/afternoondozer?igshid=MmIzYWVlNDQ5Yg==)](https://instagram.com/afternoondozer?igshid=MmIzYWVlNDQ5Yg==)
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-gray?style=flat&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/noah-mendoza-7668aa118/)](https://www.linkedin.com/in/noah-mendoza-7668aa118/)
+[![Linkedin](https://img.shields.io/badge/Linkedin-gray?style=flat&logo=linkedin&logoColor=blue&link=https://www.linkedin.com/in/noah-mendoza-7668aa118/)](www.linkedin.com/in/noah-j-mendoza)
 
 
 
